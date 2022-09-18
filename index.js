@@ -60,5 +60,5 @@ copyEl.addEventListener("click", () => {
     textarea.select();
     document.execCommand("copy");
     textarea.remove();
-    alert("password copied to clipboard");
+    alert("Password copied to clipboard!");
 });
