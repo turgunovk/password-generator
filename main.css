@@ -15,6 +15,7 @@ body{
 /* PW SECTION STYLES */
 .pw-container{
     width: 400px;
+    margin-left: 120px;
     background-color: rgb(69, 17, 118);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
 }
@@ -76,6 +77,8 @@ body{
 
 /* FOOTER */
 footer{
+    width: auto;
+    height: auto;
 }
 footer p{
     margin: 0;
